@@ -1,16 +1,27 @@
-## Hi there 👋
+- # 👋 Hey there, I'm [Your Name]!
 
-<!--
-**WhiteCamellia1104/WhiteCamellia1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+  ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
 
-Here are some ideas to get you started:
+  Welcome to my little corner of the internet 🌍 – where code meets caffeine ☕ and curiosity never sleeps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ## 💡 About Me
+
+  - 🔭 Currently working on: `Building something cool with Python & React`
+  - 🌱 Always learning: Cloud ☁️, AI 🤖, and sustainability-focused tech 🌱
+  - 💬 Ask me about: Web dev, automation, or how to make the perfect cup of coffee
+  - 📫 How to reach me: [your@email.com](mailto:your@email.com)
+  - ⚡ Fun fact: I can write bugs in over 10 languages 🐛
+
+  ---
+
+  ## 🛠️ Tech Toolbox
+
+  ```bash
+  Languages:  Python | JavaScript | HTML | CSS | Bash  
+  Frameworks: React | Node.js | Flask | Jinja2  
+  Databases:  MySQL | MongoDB | Redis  
+  Dev Tools:  VS Code | Git | Docker | Figma  
+  Cloud/CI/CD:  AWS | Vercel | Netlify | GitHub Actions
