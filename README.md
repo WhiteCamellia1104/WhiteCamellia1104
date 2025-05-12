@@ -1,15 +1,17 @@
-<!-- 个性化动态打字欢迎语 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sirius.;Software+Engineer+%7C+AI+Explorer+%7C+Green+Tech+Advocate)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Gary.;Software+Engineer+%7C+AI+Explorer+%7C" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 # 👋 About Me
 
 🎓 Software Engineering @ **Beijing University of Technology**  
-💡 Focused on **AI**, **Web Development**, and **Green Tech**  
-🌱 Currently learning: **Microservices**, **Flask**, and **Cloud Deployment**  
+💡 Focused on **AI**, **Web Development**, and **crafting elegant code and building full-stack solutions.**  
 📫 How to reach me: [Email](mailto:dy41928528@gmail.com)  
-🌐 Personal Website: [yourdomain.com](https://yourdomain.com)
+🌐 Personal Website:Yet not built
 
 ---
 
@@ -25,29 +27,15 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-3971A7?style=flat&logo=OpenJFX&logoColor=white)
----
-
-## 🚀 Featured Projects
-
-🧁 **GreenerBake**
-> A carbon footprint visualization web app for bakery products.  
-> Flask + Jinja2 + Responsive UI.  
-🔗 [View Project](https://github.com/yourusername/greenerbake)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteCamellia1104&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCamellia1104&layout=compact&theme=radical" height="140"/>
 </p>
-
----
-
-## 🔥 GitHub Streak & Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=green-white)](https://git.io/streak-stats)
 
 ---
 
