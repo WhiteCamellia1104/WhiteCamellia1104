@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Gary.;Software+Engineer+%7C+AI+Explorer+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sirius.;Software+Engineer+%7C+AI+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteCamellia1104&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCamellia1104&layout=compact&theme=radical" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteCamellia1104&show_icons=true&theme=radical" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCamellia1104&layout=compact&theme=radical" height="100"/>
 </p>
 
 ---
