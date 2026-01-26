@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:00C853&height=180&section=header&text=Sirius&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Explorer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:00C853&height=180&section=header&text=Gary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Explorer&descAlignY=60" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=4CAF50&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Sirius+%F0%9F%91%8B;Software+Engineering+@+BJUT;AI+%2B+Web+%2B+Full-Stack+Builder;Code+with+purpose.+Deploy+with+impact." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=4CAF50&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Gary+%F0%9F%91%8B;Software+Engineering+@+BJUT;AI+%2B+Web+%2B+Full-Stack+Builder;Code+with+purpose.+Deploy+with+impact." alt="Typing SVG" />
   </a>
 </p>
 
