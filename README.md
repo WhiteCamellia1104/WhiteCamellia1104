@@ -33,10 +33,6 @@
 ## 🧭 Quick Highlights (Animated)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WhiteCamellia1104&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhiteCamellia1104&theme=react-dark&hide_border=true&bg_color=0D1117&line=4CAF50&point=00C853" />
 </p>
 
@@ -70,7 +66,6 @@
 
 ## 📌 Featured Projects
 
-> 把下面的 `REPO_NAME_1/2` 换成你想置顶展示的仓库名（建议 2~4 个）。
 
 <p align="center">
   <a href="https://github.com/WhiteCamellia1104/REPO_NAME_1">
@@ -96,24 +91,3 @@
 
 ---
 
-## 🐍 Snake Animation (Contributions)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WhiteCamellia1104/WhiteCamellia1104/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:4CAF50&height=3&section=footer" />
-</p>
-
-> *“Code with purpose. Deploy with impact.”*
