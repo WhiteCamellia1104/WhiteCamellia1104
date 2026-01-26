@@ -82,7 +82,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WhiteCamellia1104&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=WhiteCamellia1104&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
