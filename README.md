@@ -64,6 +64,18 @@
 
 ---
 
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WhiteCamellia1104&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCamellia1104&layout=compact&theme=radical&hide_border=true&cache_seconds=21600" height="140"/>
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 
@@ -76,17 +88,6 @@
   </a>
 </p>
 
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteCamellia1104&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCamellia1104&layout=compact&theme=radical&hide_border=true&cache_seconds=21600" height="140"/>
-</p>
 
 ---
 
