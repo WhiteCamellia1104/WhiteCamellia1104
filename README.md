@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:dy41928528@gmail.com"><img src="https://img.shields.io/badge/Email-dy41928528%40gmail.com-4CAF50?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Website-Building...-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/WhiteCamellia1104"><img src="https://img.shields.io/badge/GitHub-WhiteCamellia1104-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50"/></a>
+  <a href="https://github.com/WhiteCamellia1104"><img src="https://img.shields.io/badge/GitHub-WhiteCamellia1104-4CAF50?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
