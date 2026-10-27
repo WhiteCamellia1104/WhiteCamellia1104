@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Zhang Yuxuan — Motion. Models. Meaningful code.</title>
+  <desc id="description">A forest-green profile header with ivory typography and three geometric humanoid poses connected by a motion trajectory. Research interests: humanoid robotics and motion generation.</desc>
+
+  <rect width="1200" height="360" rx="18" fill="#193B32"/>
+
+  <!-- A quiet editorial rhythm, with a small signature marker. -->
+  <path d="M64 48h20" stroke="#B7C8A5" stroke-width="3"/>
+  <text x="98" y="53" fill="#BAC8B5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" letter-spacing="3">WHITECAMELLIA1104</text>
+
+  <text x="64" y="156" fill="#F4F0E5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="70" font-weight="600" letter-spacing="-3.5">Zhang Yuxuan<tspan fill="#B7C8A5">.</tspan></text>
+  <text x="67" y="205" fill="#D2D9C9" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="25" font-weight="400" letter-spacing="-.4">Motion. Models. Meaningful code.</text>
+
+  <path d="M66 271h34" stroke="#819A81" stroke-width="1"/>
+  <text x="66" y="305" fill="#B7C8A5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.8">HUMANOID ROBOTICS</text>
+  <path d="m258 293-5 14" stroke="#6C8C77" stroke-width="1"/>
+  <text x="279" y="305" fill="#B7C8A5" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.8">MOTION GENERATION</text>
+
+  <!-- Spatial references stay behind the moving figures. -->
+  <g fill="none" stroke="#6D8C75" stroke-width="1" opacity=".27">
+    <path d="M734 302h400M770 319l47-34M890 319l15-34M1010 319l-17-34M1130 319l-49-34"/>
+    <path d="M766 302c78-5 112-70 170-98s132 2 197-48" stroke-dasharray="3 7"/>
+  </g>
+
+  <!-- Earlier pose: an open stride. -->
+  <g fill="none" stroke="#A2B496" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".28">
+    <circle cx="806" cy="112" r="13"/>
+    <path d="m808 126 7 23 11 53M788 148l27 1 27-4M788 148l-14 27-14 17M842 145l19 18 17-13M812 201l14 1 15-6M817 202l-24 42-22 46M837 198l29 40 20 46"/>
+    <path d="m771 290 17 1m98-7 17 1"/>
+    <circle cx="815" cy="149" r="3" fill="#A2B496" stroke="none"/>
+    <circle cx="826" cy="202" r="3" fill="#A2B496" stroke="none"/>
+  </g>
+
+  <!-- Following pose: the movement continues through the frame. -->
+  <g fill="none" stroke="#A2B496" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".38">
+    <circle cx="1084" cy="92" r="13"/>
+    <path d="m1082 106-5 23-8 62M1051 133l26-4 27 8M1051 133l-16 24-24 5M1104 137l18 23 8 28M1054 187l15 4 16 3M1058 190l-10 48 8 49M1081 193l23 42 24 45"/>
+    <path d="m1056 287 17 1m55-8 16 2"/>
+    <circle cx="1077" cy="129" r="3" fill="#A2B496" stroke="none"/>
+    <circle cx="1069" cy="191" r="3" fill="#A2B496" stroke="none"/>
+  </g>
+
+  <!-- Primary pose: warm joints emphasize the motion representation. -->
+  <g fill="none" stroke="#DBE2CF" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="947" cy="84" r="16"/>
+    <path d="m948 101 4 24 9 68M919 128l33-3 32 1M919 128l-18 31-24 19M984 126l23 25 23-18M945 191l16 2 18-4M948 193l-25 48-12 46M974 191l18 45 28 49"/>
+    <path d="m911 287 21 1m88-3 21 1"/>
+  </g>
+  <g fill="#C9B58F" stroke="#193B32" stroke-width="2">
+    <circle cx="952" cy="125" r="4.5"/>
+    <circle cx="919" cy="128" r="4"/>
+    <circle cx="984" cy="126" r="4"/>
+    <circle cx="901" cy="159" r="4"/>
+    <circle cx="1007" cy="151" r="4"/>
+    <circle cx="961" cy="193" r="4.5"/>
+    <circle cx="923" cy="241" r="4"/>
+    <circle cx="992" cy="236" r="4"/>
+  </g>
+
+  <circle cx="766" cy="302" r="3" fill="#8EA487"/>
+  <circle cx="1133" cy="156" r="3" fill="#8EA487"/>
+</svg>
