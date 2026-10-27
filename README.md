@@ -1,93 +1,73 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:00C853&height=180&section=header&text=Gary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Explorer&descAlignY=60" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Zhang Yuxuan · WhiteCamellia — Motion. Models. Meaningful code." />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=4CAF50&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Gary+%F0%9F%91%8B;Software+Engineering+@+BJUT;AI+%2B+Web+%2B+Full-Stack+Builder;Code+with+purpose.+Deploy+with+impact." alt="Typing SVG" />
-  </a>
+  <b>探索动作生成，连接模型与真实执行。</b><br />
+  <sub>Exploring motion, generative models, and the path to physical execution.</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:dy41928528@gmail.com"><img src="https://img.shields.io/badge/Email-dy41928528%40gmail.com-4CAF50?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-Building...-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/WhiteCamellia1104"><img src="https://img.shields.io/badge/GitHub-WhiteCamellia1104-4CAF50?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://yuxuan-personal-site.pages.dev/">个人网站 · Website ↗</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:dy41928528@gmail.com">联系我 · Email ↗</a>
+  &nbsp; / &nbsp;
+  <a href="#projects">项目 · Projects ↓</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WhiteCamellia1104&style=for-the-badge&color=4CAF50" alt="profile views"/>
-</p>
+### 你好，我是张宇璇 · About
+
+也可以叫我 **WhiteCamellia**。我有软件工程背景，目前的研究兴趣是**人形机器人、动作生成与风格迁移，以及生成模型与实时控制**。
+
+我希望将动作的内容与风格表达，同机器人的稳定执行连接起来。这里记录研究探索与代码实践；在[个人网站](https://yuxuan-personal-site.pages.dev/)上，分享更多思考与学习记录。
+
+### 正在探索 · Research interests
+
+| 方向 | 我关注的问题 |
+| :--- | :--- |
+| **人形机器人**<br /><sub>Humanoid Robotics</sub> | 全身运动表示与跟踪，以及接触、稳定性和物理执行约束。 |
+| **动作生成与风格迁移**<br /><sub>Motion Generation & Style Transfer</sub> | 在保留动作语义与运动轨迹的同时，融入参考动作的风格。 |
+| **生成模型与实时控制**<br /><sub>Generative Models & Real-time Control</sub> | 扩散模型、潜在动作表示与闭环控制，以及质量、延迟和连续性之间的平衡。 |
+
+> 一个持续探索的问题：如何让有风格的动作，既表达得好，也执行得稳？
+
+<a id="projects"></a>
+
+### 项目与实践 · Projects
+
+**[DiaryAPP ↗](https://github.com/WhiteCamellia1104/DiaryAPP)** · Android 日记应用  
+参与开发的小组项目，用于日常记录与整理。支持日记编辑、分类与标签、多媒体附件和本地 SQLite 存储，并提供实验性的 AI 润色与摘要入口。  
+<sub>Kotlin · Android · SQLite · 小组协作</sub>
+
+**[Personal Website ↗](https://yuxuan-personal-site.pages.dev/)** · 个人网站  
+围绕研究兴趣、代码与学习记录搭建的个人空间，采用静态页面、Markdown / MDX 内容和原创 SVG 插图。  
+<sub>Astro · TypeScript · Markdown / MDX · Cloudflare Pages</sub>
+
+<details>
+<summary><b>开源学习与研究参考 · Open-source explorations</b></summary>
+
+以下为 Fork 仓库，用于学习与研究探索；原始工作归各上游作者所有。
+
+| 仓库 | 用途与来源 |
+| :--- | :--- |
+| [whole_body_tracking](https://github.com/WhiteCamellia1104/whole_body_tracking) | 全身运动跟踪与研究复现参考。上游：[HybridRobotics/whole_body_tracking](https://github.com/HybridRobotics/whole_body_tracking)。 |
+| [zotero-arxiv-daily](https://github.com/WhiteCamellia1104/zotero-arxiv-daily) | 基于 Zotero 文献库推荐 arXiv 论文的工具。上游：[TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily)。 |
+| [Embodied-AI-Guide](https://github.com/WhiteCamellia1104/Embodied-AI-Guide) | 具身智能学习资料。上游：[TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide)。 |
+
+</details>
+
+### 常用技术 · Toolkit
+
+**代码与实验**　Python · Java · Kotlin · JavaScript / TypeScript  
+**应用与 Web**　Android · Flask · Spring Boot · Astro  
+**数据与写作**　SQLite · MySQL · Markdown / MDX · Git
 
 ---
 
-## 👋 About Me
-
-- 🎓 Software Engineering @ **Beijing University of Technology**
-- 💡 Interests: **AI / Web Dev / Full-Stack Engineering**
-- 🧩 I love building: **clean UIs, scalable services, and useful tools**
-- 🌱 Currently exploring: **LLMs, Retrieval, and product-level AI apps**
-- 📫 Reach me: **dy41928528@gmail.com**
-
----
-
-## 🧭 Quick Highlights (Animated)
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WhiteCamellia1104&theme=react-dark&hide_border=true&bg_color=0D1117&line=4CAF50&point=00C853" />
+  <b>欢迎交流机器人、动作生成，或一个值得动手实现的想法。</b><br />
+  <sub>Open to conversations about robotics, motion, and useful things to build.</sub><br /><br />
+  <a href="mailto:dy41928528@gmail.com">dy41928528@gmail.com</a>
+  &nbsp; · &nbsp;
+  <a href="https://yuxuan-personal-site.pages.dev/">yuxuan-personal-site.pages.dev</a>
 </p>
-
----
-
-## 🧰 Tech Stack (Cleaner + Grouped)
-
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend**
-<br/>
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frontend**
-<br/>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Desktop**
-<br/>
-![JavaFX](https://img.shields.io/badge/JavaFX-3971A7?style=flat&logo=OpenJFX&logoColor=white)
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteCamellia1104&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteCamellia1104&layout=compact&theme=radical&hide_border=true&cache_seconds=21600" height="140"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-
-<p align="center">
-  <a href="https://github.com/WhiteCamellia1104/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCamellia1104&repo=REPO_NAME_1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/WhiteCamellia1104/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteCamellia1104&repo=REPO_NAME_2&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-
----
-
